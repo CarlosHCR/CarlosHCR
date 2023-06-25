@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carloshcr5/)
 # Stats
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosHCR&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHCR&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHCR&hide_progress=true)
 
 # Technologies used everyday
 <div style="display: inline_block"><br>
